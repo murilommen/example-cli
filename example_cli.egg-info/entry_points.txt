@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        example-cli=myapp.__main__:main
+    

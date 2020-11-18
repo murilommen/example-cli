@@ -1,0 +1,12 @@
+README.md
+setup.py
+example_cli.egg-info/PKG-INFO
+example_cli.egg-info/SOURCES.txt
+example_cli.egg-info/dependency_links.txt
+example_cli.egg-info/entry_points.txt
+example_cli.egg-info/requires.txt
+example_cli.egg-info/top_level.txt
+myapp/__init___.py
+myapp/__main__.py
+myapp/example.py
+venv/bin/activate_this.py
